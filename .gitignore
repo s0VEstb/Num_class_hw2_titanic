@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data files (raw, processed, etc.)
+data/
+*.csv
+*.tgz
+*.zip
+
+# Images and plots
+images/
+*.png
+*.jpg
+*.jpeg
+
+# Scikit-learn, TensorFlow, Keras models
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.tmp
+
